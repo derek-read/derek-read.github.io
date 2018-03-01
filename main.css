@@ -17,7 +17,7 @@ body {
 
 .jumbotron .img{jpg
   opacity: .3;
-  background-image: url("https://derek-read.github.io/IMG_3600.jpg);
+  background-image: url("https://derek-read.github.io/IMG_3600.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
