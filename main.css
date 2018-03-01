@@ -15,7 +15,7 @@ body {
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
-.jumbotron .img{jpg
+.jumbotron .img{
   opacity: .3;
   background-image: url("https://derek-read.github.io/images/IMG_3600.jpg");
   background-size: cover;
