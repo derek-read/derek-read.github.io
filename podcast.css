@@ -4,6 +4,10 @@ body {
   align-items: center;
 }
 
+body .row {
+	justify-content: center;
+}
+
 .jumbotron {
   margin-bottom: 20px;
   color: #fff;
