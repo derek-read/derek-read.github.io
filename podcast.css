@@ -15,6 +15,11 @@ body {
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
+iframe {
+    display: block;
+    border-style:none;
+}
+
 .jumbotron .img{
   opacity: .4;
   background-size: cover;
