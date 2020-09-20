@@ -31,11 +31,6 @@ body a{
   color: black;
 }
 
-body .media{
-width: 64px;
-height: 64px;
-}
-
 .jumbotron h2 {
   opacity: 1;
   font-size: 60px;
